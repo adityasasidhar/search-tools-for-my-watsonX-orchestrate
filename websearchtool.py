@@ -38,7 +38,6 @@ def search_internet(query: str, max_results: int = 10) -> str:
                 f"**URL:** {url}\n"
                 f"**Snippet:** {snippet}\n"
             )
-
         return f"Found {len(results_list)} results for '{query}':\n\n" + "\n".join(formatted_results)
 
     except Exception as e:

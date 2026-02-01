@@ -108,7 +108,7 @@ External capabilities such as web search or source control (e.g., GitHub MCP) ar
 
 ---
 
-## 📚 Research Foundations
+## 📚 Research Foundations and Inspirations
 
 Flow State AI is grounded in established research on agentic systems and tool-augmented language models:
 
